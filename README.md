@@ -1,1 +1,3 @@
-# GIT-IT-academy-_-OCT_Practice
+# Front end develop
+
+## Client  - Server Model
